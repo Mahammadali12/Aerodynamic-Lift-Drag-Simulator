@@ -18,7 +18,7 @@
 #define FRICTION_COEFFICIENT 0.7f
 #define DRAG_COEFFICIENT 0.38f
 
-// #define EPSILON 1e-4f
+#define EPSILON 1e-4f
 #define REST_VEL_THRESHOLD 0.1f   // m/s: impact speed below this -> treat as rest
 #define HORIZONTAL_VEL_SLEEP 0.01f // m/s: horizontal sleep threshold
 
